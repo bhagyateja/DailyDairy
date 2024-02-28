@@ -1,6 +1,6 @@
 import './App.css';
 import login from './Login'
-const App()=> {
+const App=()=> {
   return (
     <div className="App">
       <login/>
